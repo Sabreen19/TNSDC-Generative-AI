@@ -27,6 +27,6 @@ get_songs_by_emotion(detected_emotion)
 The music dataset (data_moods.csv) contains information about songs categorized by mood/emotion. This dataset is used to recommend songs based on detected emotions.
 
 ## Credits
-DeepFace: Library for face recognition and facial attribute analysis.
-Pandas: Library for data manipulation and analysis.
-OpenCV: Library for computer vision tasks.
+*DeepFace: Library for face recognition and facial attribute analysis.
+*Pandas: Library for data manipulation and analysis.
+*OpenCV: Library for computer vision tasks.
